@@ -1,0 +1,13 @@
+.grid {
+  margin: 87px 50px;
+  width: 1251px;
+}
+
+.grid-row {
+  height: 25px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
